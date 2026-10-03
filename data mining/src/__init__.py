@@ -1,0 +1,1 @@
+"""WebPathMine — src package init."""
